@@ -1,0 +1,14 @@
+#social-icons {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+  font-size: 2em;
+  padding: 2em 0 2em 0;
+  margin: 0;
+}
+
+#section-hero-parallax {
+  height: 100vh;
+  width: 100vw;
+}
+
