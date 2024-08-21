@@ -12,7 +12,7 @@ YOU CAN CHECKOUT MY  ` 5 MONTHS`   EFFORTS IN THIS WEBSITE || YOU CAN IGNOR IT A
 - Editing
 - Photographer
 
-## I do as Front-end
+## Frond-end
 
    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> 
 
@@ -21,8 +21,11 @@ YOU CAN CHECKOUT MY  ` 5 MONTHS`   EFFORTS IN THIS WEBSITE || YOU CAN IGNOR IT A
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 
+## Frameworks
 
-## Programms are i do in
+<img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
+
+## Programms
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
 
@@ -32,12 +35,14 @@ YOU CAN CHECKOUT MY  ` 5 MONTHS`   EFFORTS IN THIS WEBSITE || YOU CAN IGNOR IT A
 
 <img width="48" height="48" src="https://img.icons8.com/pulsar-gradient/48/php.png" alt="php"/>
 
-## IDE S USED
+## IDE
 
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 
 <img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/>
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+
+## Design
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
